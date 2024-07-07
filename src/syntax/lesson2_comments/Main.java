@@ -1,11 +1,11 @@
-package syntax;
+package syntax.lesson2_comments;
 
 /**
  * @author Aslan Javasky
  * @version 1.0.2025
  */
 
-//this syntax.Main class
+//this syntax.lesson2_comments.Main class
 public class Main {
     //this method "main" is entry point to our program
     public static void main(String[] args) {

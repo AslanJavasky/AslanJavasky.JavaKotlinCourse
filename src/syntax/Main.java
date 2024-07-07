@@ -1,9 +1,11 @@
+package syntax;
+
 /**
  * @author Aslan Javasky
  * @version 1.0.2025
  */
 
-//this Main class
+//this syntax.Main class
 public class Main {
     //this method "main" is entry point to our program
     public static void main(String[] args) {

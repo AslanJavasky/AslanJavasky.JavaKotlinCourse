@@ -1,4 +1,4 @@
-package syntax.lesson5_variables;
+package syntax.lesson6_casting;
 
 public class Variables {
     public static void main(String[] args) {
@@ -46,5 +46,22 @@ public class Variables {
         int firstNumber, secondNumber;
         firstNumber=5;
         secondNumber=10;
+
+        //casting
+        //byteNumber=127
+        short varForCasting=byteNumber;
+        System.out.println("After casting varForCasting:"+varForCasting);
+
+        int intNewVar=varForCasting;
+        System.out.println("After casting intNewVar:"+intNewVar);
+
+        int intVariable=6_000_012;
+        byte byteNewVar= (byte) intVariable;
+        System.out.println("After casting byteNewVar:"+byteNewVar);
+
+        var doubleVar=4.18;
+        int newInteger= (int) doubleVar;
+        System.out.println("After casting newInteger:"+newInteger);
+
     }
 }

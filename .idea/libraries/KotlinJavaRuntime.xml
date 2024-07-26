@@ -1,6 +1,10 @@
 <component name="libraryTable">
   <library name="KotlinJavaRuntime" type="repository">
     <properties maven-id="org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.24" />
+    <ANNOTATIONS>
+      <root url="file://$USER_HOME$/Downloads/kotlinx.coroutines-1.8.1/kotlinx.coroutines-1.8.1" />
+      <root url="file://$USER_HOME$/Downloads/kotlinx.coroutines-1.8.1" />
+    </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.9.24/kotlin-stdlib-jdk8-1.9.24.jar!/" />
       <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.9.24/kotlin-stdlib-1.9.24.jar!/" />

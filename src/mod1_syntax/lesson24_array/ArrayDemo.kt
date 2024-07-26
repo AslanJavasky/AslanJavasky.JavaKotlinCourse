@@ -1,4 +1,4 @@
-package mod2_collections
+package mod1_syntax.lesson24_array
 
 fun main() {
 

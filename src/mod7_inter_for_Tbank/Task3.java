@@ -1,4 +1,4 @@
-package practise;
+package mod7_inter_for_Tbank;
 
 import java.util.Scanner;
 

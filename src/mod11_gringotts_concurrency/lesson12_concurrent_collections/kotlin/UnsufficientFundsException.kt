@@ -1,0 +1,3 @@
+package mod11_gringotts_concurrency.lesson12_concurrent_collections.kotlin
+
+class UnsufficientFundsException : RuntimeException("Unsuffient funds")

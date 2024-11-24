@@ -1,0 +1,3 @@
+package mod11_gringotts_concurrency.lesson14_completable_future.kotlin
+
+class UnsufficientFundsException : RuntimeException("Unsuffient funds")

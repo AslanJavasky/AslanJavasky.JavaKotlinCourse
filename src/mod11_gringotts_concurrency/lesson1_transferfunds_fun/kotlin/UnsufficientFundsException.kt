@@ -1,0 +1,3 @@
+package mod11_gringotts_concurrency.lesson1_transferfunds_fun.kotlin
+
+class UnsufficientFundsException : RuntimeException("Unsuffient funds")

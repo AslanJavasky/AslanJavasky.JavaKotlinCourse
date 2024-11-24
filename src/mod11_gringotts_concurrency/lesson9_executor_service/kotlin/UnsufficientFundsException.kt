@@ -1,0 +1,3 @@
+package mod11_gringotts_concurrency.lesson9_executor_service.kotlin
+
+class UnsufficientFundsException : RuntimeException("Unsuffient funds")

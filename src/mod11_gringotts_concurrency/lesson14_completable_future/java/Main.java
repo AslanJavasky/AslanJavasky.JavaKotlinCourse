@@ -36,7 +36,7 @@ public class Main {
 //        } catch (InterruptedException | ExecutionException e) {
 //            throw new RuntimeException(e);
 //        }
-
+        
         //CompletableFuture
         ExecutorService executor = Executors.newFixedThreadPool(3);
 

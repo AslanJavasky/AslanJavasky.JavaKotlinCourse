@@ -1,0 +1,3 @@
+package mod11_gringotts_concurrency.lesson15_virtual_threads.kotlin
+
+class UnsufficientFundsException : RuntimeException("Unsuffient funds")
